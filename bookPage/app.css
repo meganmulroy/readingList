@@ -26,6 +26,7 @@ img {
 	height: 300px;
 }
 
+/*How to I make the items in the last row of the container align left instead of center?*/
 .container {
 	display: flex;
 	flex-flow: row wrap;
